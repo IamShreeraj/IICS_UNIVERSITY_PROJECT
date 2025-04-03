@@ -1,0 +1,21 @@
+> OIE_002 INFO 2025-04-03T05:24:27.986Z Starting export operation.
+Execution Client: UI
+Job Name: Mapping_faculty-1743656764857
+Organization: Cognizant
+Job Id: kbHrJWR1Oi2lTdPZKFN8gT
+User: imshreeraj@gmail.com
+> OIE_004 INFO 2025-04-03T05:24:28.063Z Successfully exported object [/Explore/Default] of type [Project] id [4DYTFph2yXpcnN0tqsfjeF]
+> OIE_004 INFO 2025-04-03T05:24:28.063Z Successfully exported object [/SYS/_SYSTEM_PROJECT] of type [Project] id [a1rM76X8NUyk4np1T87vWc]
+> OIE_004 INFO 2025-04-03T05:24:28.112Z Successfully exported object [/SYS/_SYSTEM_FOLDER] of type [Folder] id [0XhNm2DqsJlkeQM6mr2csa]
+> OIE_004 INFO 2025-04-03T05:24:28.188Z Successfully exported object [/SYS/da32bea66f595cf] of type [AgentGroup] id [1ontF7OzUwWdpvPXLc0iKN]
+> OIE_004 INFO 2025-04-03T05:24:28.347Z Successfully exported object [/SYS/target_SQL] of type [Connection] id [0iLwgt8aoBTlq0ubE5GFQU]
+> OIE_004 INFO 2025-04-03T05:24:28.347Z Successfully exported object [/SYS/source_UNI] of type [Connection] id [43K2XOrxz6Md4NXv5HrsKh]
+> OIE_004 INFO 2025-04-03T05:24:28.527Z Successfully exported object [/Explore/Default/Mapping_faculty] of type [DTEMPLATE] id [2FvKlJnjtwldmEzI0uEdAF]
+> OIE_003 INFO 2025-04-03T05:24:28.527Z Finished export operation.
+Job Name: Mapping_faculty-1743656764857
+Start Time: 04/03/25 5:24 AM
+End Time: 04/03/25 5:24 AM
+Started by: imshreeraj@gmail.com
+Start Method: UI
+Source Organization: Cognizant
+Status: SUCCESSFUL

@@ -1,0 +1,21 @@
+> OIE_002 INFO 2025-04-03T05:22:53.911Z Starting export operation.
+Execution Client: UI
+Job Name: Mapping_D_COLLEGE-1743656674107
+Organization: Cognizant
+Job Id: 13pw09civs5dHulcybwECu
+User: imshreeraj@gmail.com
+> OIE_004 INFO 2025-04-03T05:22:53.995Z Successfully exported object [/SYS/_SYSTEM_PROJECT] of type [Project] id [a1rM76X8NUyk4np1T87vWc]
+> OIE_004 INFO 2025-04-03T05:22:53.995Z Successfully exported object [/Explore/Default] of type [Project] id [4DYTFph2yXpcnN0tqsfjeF]
+> OIE_004 INFO 2025-04-03T05:22:54.046Z Successfully exported object [/SYS/_SYSTEM_FOLDER] of type [Folder] id [0XhNm2DqsJlkeQM6mr2csa]
+> OIE_004 INFO 2025-04-03T05:22:54.134Z Successfully exported object [/SYS/da32bea66f595cf] of type [AgentGroup] id [1ontF7OzUwWdpvPXLc0iKN]
+> OIE_004 INFO 2025-04-03T05:22:54.233Z Successfully exported object [/SYS/target_SQL] of type [Connection] id [0iLwgt8aoBTlq0ubE5GFQU]
+> OIE_004 INFO 2025-04-03T05:22:54.233Z Successfully exported object [/SYS/source_UNI] of type [Connection] id [43K2XOrxz6Md4NXv5HrsKh]
+> OIE_004 INFO 2025-04-03T05:22:54.383Z Successfully exported object [/Explore/Default/Mapping_D_COLLEGE] of type [DTEMPLATE] id [9cEKnm3LlGub1QRlsCWkgS]
+> OIE_003 INFO 2025-04-03T05:22:54.383Z Finished export operation.
+Job Name: Mapping_D_COLLEGE-1743656674107
+Start Time: 04/03/25 5:22 AM
+End Time: 04/03/25 5:22 AM
+Started by: imshreeraj@gmail.com
+Start Method: UI
+Source Organization: Cognizant
+Status: SUCCESSFUL
